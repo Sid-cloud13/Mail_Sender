@@ -26,10 +26,10 @@
 ## Example ScreenShots
 
 ### Interface
-![Interface](./img/Interface.png)
+![Interface](./img/interface.png)
 
 ### Desired Result
-![result](./img/result.png)
+![result](./img/Result.png)
 
 ---
 
@@ -119,11 +119,6 @@
 - Enable integration with multiple email services (e.g., Outlook, Yahoo).
 - Implement OAuth2 for improved security.
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See `LICENSE` for more details.
 
 ---
 
