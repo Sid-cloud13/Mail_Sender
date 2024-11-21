@@ -23,6 +23,15 @@
   - Option to show/hide the password for convenience.
 
 ---
+## Example ScreenShots
+
+### Interface
+![Interface](./img/Interface.png)
+
+### Desired Result
+![result](./img/result.png)
+
+---
 
 ## 🛠️ Installation and Setup
 
@@ -37,7 +46,7 @@
 ### Setup Instructions
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-repo/email-sender.git
+   git clone https://github.com/Sid-cloud13/Mail_Sender.git
    cd email-sender
    ```
 2. (Optional) Set up environment variables for security:
